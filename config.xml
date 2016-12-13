@@ -34,4 +34,6 @@
         <variable name="NSLOCATIONWHENINUSEUSAGEDESCRIPTION" value="Show your location on the map" />
         <variable name="NSLOCATIONALWAYSUSAGEDESCRIPTION" value="Trace your location on the map" />
     </plugin>
+    <engine name="android" spec="~6.0.0" />
+    <engine name="ios" spec="~4.3.1" />
 </widget>
